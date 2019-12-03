@@ -4,7 +4,11 @@
 
 Repositório com artefados sobre processamento de linguagem natural através do dataset, colhido no Kaggle, com avaliações de usuários referente ao aplicativo Uber.
 
-O objetivo da análise é fazer contraste sobre a efetividade dos modelos de Máquinas de Vetores de Suporte (SVM), Regressão Linear Logística, Multinomial Naive Bayes e Árvore de Decisão.
+O objetivo da análise é fazer contraste dos modelos:
+- Máquinas de Vetores de Suporte - SVM
+- Regressão Linear Logística
+- Multinomial Naive Bayes
+- Árvore de Decisão.
 
  **Alunos:**
 
